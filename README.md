@@ -1,6 +1,6 @@
 # DevOps_production_project
 
-`python` app with `nginx` server with `keycloak`  , in `docker`, orchestrated with `docker-compose`.
+`python` app with `nginx` server with `keycloak` OIDC , in `docker`, orchestrated with `docker-compose`.
 
 ## Development
 
